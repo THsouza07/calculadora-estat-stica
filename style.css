@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    background-color: #b4b4b4;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -55,4 +55,9 @@ p {
 span {
     color: #333;
     font-weight: bold;
+}
+
+.form-icon{
+    text-align: right;
+    margin-top: 20px;
 }
